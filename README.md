@@ -138,7 +138,7 @@ Create a `manifest.json` file in your `static` folder:
 }
 ```
 
-### Step 3: Add Head Meta (Example)
+### Step 3: Add Head Meta ===  Examples
 
 Add the following into `_document.jsx` or `_document.tsx`, in `<Head>`:
 
